@@ -10,7 +10,7 @@ Having recently completed the intensive 12 weeks of [Makers Academy](https://git
 I am currently looking to pursue my career in tech, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
 
-### <a name="skills">Skills 🤹🏻‍♂️</a>
+### <a name="skills">🤹 Skills🏻‍♂️</a>
 
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Next.js with no prior experience.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked in many sectors, in many countires and with a wide range of teams. There is always a way to connect.
@@ -26,9 +26,9 @@ I am currently looking to pursue my career in tech, where I can further expand m
 ### <a name="projects">Projects & Code</a>
 Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
-[Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | React, Next.js, Javascript, CSS, Xcode | Jest
+[Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | React, Next.js, Javascript, HTML, CSS | Jest
 [Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
-[Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), CSS | RSpec, Capybara
+[Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Postgres /w ActiveRecord, OAuth, HTML, CSS | RSpec, Capybara
 
 Check out the source code on Github: [https://github.com/stumcardle][1]
 
