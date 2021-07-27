@@ -1,18 +1,16 @@
-# Stuart McArdle  
-
-Some facts about me.
+👋 Some facts about me.
 ***
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.stumcardle.com)
 
-A full-stack junior web developer specialising in the front-end. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+A full-stack junior web developer specialising in the front-end. My background combines creativity with a decent level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
 Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
-I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+I am currently looking to pursue my career in tech, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
 
-### <a name="skills">Skills</a>
+### <a name="skills">Skills 🤹🏻‍♂️</a>
 
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Next.js with no prior experience.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked in many sectors, in many countires and with a wide range of teams. There is always a way to connect.
@@ -26,7 +24,7 @@ I am currently looking to take on a career in the tech scene of London, where I 
 ***
 
 ### <a name="projects">Projects & Code</a>
-Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
+Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
 [Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | React, Next.js, Javascript, CSS, Xcode | Jest
 [Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
@@ -58,16 +56,14 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 ### <a name="experience">Experience</a>
 
 **Smoko Web Design** (October 2018 – December 2020)    
-*Owner & Head Designer* 
-As a self-taught graphic designer and wordpress web developer, I challenged myself to work on a variety of challenging, detail-oriented projects. I managed the design, sales, brand design, graphic design and tech support whilst Smoko Design existed.
+*Owner & Head Designer*
 
-**Anyspaces** (March 2008 to September 2010)   
-*Senior Digital Operator & Systems Admin*  
-Responsible for training digital shoot operators up for the high-pressure advertising and fashion photo shoot environment and for managing the IT infrastructure of the company.
+**Anyspaces** (September 2017 - October 2018)   
+*Head of Regional Sales*
 
-**22CREATIONS** (March 2008 to September 2010)   
-*Owner & Head Designer*  
-Responsible for training digital shoot operators up for the high-pressure advertising and fashion photo shoot environment and for managing the IT infrastructure of the company.
+
+**22CREATIONS** (February 2015 - March 2016)   
+*Owner & Head Designer*
 
 ***
 
@@ -82,7 +78,7 @@ Responsible for training digital shoot operators up for the high-pressure advert
 
 ### <a name="contact">Contact</a>
 - Github: [stumcardle][1]
-- Codewars http://www.codewars.com/users/stuartmcardle
+- Codewars: http://www.codewars.com/users/stuartmcardle
 - Portfolio: [stumcardle.com](http://www.stumcardle.com)
 
 [1]: https://github.com/stumcardle
@@ -92,5 +88,5 @@ Responsible for training digital shoot operators up for the high-pressure advert
 [5]: https://github.com/stumcardle
 [6]: https://acebook-runtime-terrors.herokuapp.com
 [7]: https://github.com/rdupplaw/makersbnb
-[8]: https://chitter-lucalabs.herokuapp.com
+[8]: https://
 [9]: https://www.youtube.com/watch?v=TtRlNqiR7zo
