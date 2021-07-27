@@ -1,7 +1,7 @@
-👋 Some facts about me.
-***
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.stumcardle.com)
+
+👋 A little bit about me.
 
 A full-stack junior web developer specialising in the front-end. My background combines creativity with a decent level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
@@ -32,6 +32,7 @@ Project | Description | Links | Stack | Testing
 
 Check out the source code on Github: [https://github.com/stumcardle][1]
 
+***
 
 ### <a name="skills">Education</a>
 
