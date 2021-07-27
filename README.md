@@ -1,4 +1,4 @@
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.stumcardle.com)
 
 ### 👋 A little bit about me
