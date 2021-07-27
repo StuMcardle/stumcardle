@@ -1,7 +1,7 @@
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://www.stumcardle.com)
 
-👋 A little bit about me.
+### 👋 A little bit about me.
 
 A full-stack junior web developer specialising in the front-end. My background combines creativity with a decent level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
@@ -23,18 +23,16 @@ I am currently looking to pursue my career in tech, where I can further expand m
 
 ***
 
-### <a name="projects">Projects</a>
+### <a name="projects">👨🏻‍💻 Projects</a>
 Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
 [Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | React, Next.js, Javascript, HTML, CSS | Jest
 [Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
 [Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Postgres /w ActiveRecord, OAuth, HTML, CSS | RSpec, Capybara
 
-Check out the source code on Github: [https://github.com/stumcardle][1]
-
 ***
 
-### <a name="skills">Education</a>
+### <a name="education">🧠 Education</a>
 
 #### Makers Academy (April 2021 – July 2021)
 Highly selective 12 week intensive coding bootcamp.
@@ -54,7 +52,7 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 
 ***
 
-### <a name="experience">Experience</a>
+### <a name="experience">🔮 Experience</a>
 
 **Smoko Web Design** (October 2018 – December 2020)    
 *Owner & Head Designer*
@@ -68,7 +66,7 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 
 ***
 
-### <a name="interests">Interests</a>
+### <a name="interests">🪴 Interests</a>
 
 - **Graphic Design**
 - **Video Editing**
@@ -77,7 +75,7 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 
 ***
 
-### <a name="contact">Contact</a>
+### <a name="contact">📬 Contact</a>
 - Github: [stumcardle][1]
 - Codewars: http://www.codewars.com/users/stuartmcardle
 - Portfolio: [stumcardle.com](http://www.stumcardle.com)
