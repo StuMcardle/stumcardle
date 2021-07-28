@@ -25,9 +25,9 @@ I am currently looking to pursue my career in tech, where I can further expand m
 ### <a name="projects">👨🏻‍💻 Projects</a>
 Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
-[Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | React, Next.js, Javascript, HTML, CSS | Jest
-[Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
-[Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Postgres /w ActiveRecord, OAuth, HTML, CSS | RSpec, Capybara
+[Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] | React, Next.js, Javascript, HTML, CSS | Jest
+[Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][6] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
+[Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] | Ruby, Postgres /w ActiveRecord, HTML, CSS | RSpec, Capybara
 
 ***
 
@@ -84,7 +84,7 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 [3]: https://github.com/StuMcardle/acebook-runtime-terrors
 [4]: https://github.com/https://github.com/rdupplaw/makersbnb
 [5]: https://github.com/stumcardle
-[6]: https://acebook-runtime-terrors.herokuapp.com
+[6]: https://www.youtube.com/watch?v=ZddhZCFhr7I
 [7]: https://github.com/rdupplaw/makersbnb
 [8]: https://
 [9]: https://www.youtube.com/watch?v=TtRlNqiR7zo
