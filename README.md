@@ -2,7 +2,7 @@
 
 ### 👋 A little bit about me
 
-A full-stack junior web developer specialising in the front-end. My background combines creativity with a decent level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+A full-stack junior software engineer specialising in the front-end. My background combines creativity with a good level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
 Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
