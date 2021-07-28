@@ -25,9 +25,9 @@ I am currently looking to pursue my career in tech, where I can further expand m
 ### <a name="projects">💡 Projects</a>
 Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
-[Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] | React, Next.js, Javascript, HTML, CSS | Jest
-[Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][6] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
-[Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] | Ruby, Postgres /w ActiveRecord, HTML, CSS | RSpec, Capybara
+[Betwixt][2] | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] | React, Next.js, Javascript, HTML, CSS | Jest
+[Acebook][3] | A group project to develop a social media platform which included building an Authentication and Authorisation system from scratch using Ruby on Rails. | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][6] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
+[Hot Potato][4] | A team project to build an AirBnB clone ground up with Sinatra. | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] | Ruby, Postgres /w ActiveRecord, HTML, CSS | RSpec, Capybara
 
 ***
 
