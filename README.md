@@ -1,5 +1,4 @@
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](https://www.stumcardle.com)
+[Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Portfolio](https://www.stumcardle.com)
 
 ### 👋 A little bit about me
 
@@ -14,7 +13,7 @@ I am currently looking to pursue my career in tech, where I can further expand m
 
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Next.js with no prior experience.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked in many sectors, in many countires and with a wide range of teams. There is always a way to connect.
-- **Creative** - As a self-taught graphic designer and web designer, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
+- **Creative** - As a self-taught graphic designer and wordpress web designer, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
 - **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 - **Attention to detail** - With my own projects, from design to UX, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
 - **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
@@ -76,9 +75,9 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 ***
 
 ### <a name="contact">📬 Contact</a>
-- Github: [stumcardle][1]
-- Codewars: http://www.codewars.com/users/stuartmcardle
-- Portfolio: [stumcardle.com](http://www.stumcardle.com)
+- Github | [stumcardle][1]
+- Codewars | http://www.codewars.com/users/stuartmcardle
+- Portfolio | [stumcardle.com](http://www.stumcardle.com)
 
 [1]: https://github.com/stumcardle
 [2]: https://github.com/Dev-ops-true/betwixt
