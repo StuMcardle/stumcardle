@@ -22,7 +22,7 @@ I am currently looking to pursue my career in tech, where I can further expand m
 
 ***
 
-### <a name="projects">👨🏻‍💻 Projects</a>
+### <a name="projects">💡 Projects</a>
 Project | Description | Links | Stack | Testing
 --- | --- | --- | --- | ---
 [Betwixt][2] | A powerful web app built for those who want to find the mid-point between two friends | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] | React, Next.js, Javascript, HTML, CSS | Jest
