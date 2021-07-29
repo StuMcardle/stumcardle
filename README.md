@@ -2,7 +2,7 @@
 
 ### 👋 A little bit about me
 
-A creative entrepreneur turned full-stack web developer with a passion for front-end development. I am always looking to learn new technologies and grow as a developer. Sociable and dynamic. Self-motivated with a vision for new ideas and creativity. I enjoy researching and solving problems whether it’s in a team environment or working independently. I am always looking for ways to learn and improve on my current skills.
+A creative entrepreneur turned full-stack web developer with a passion for React and front-end development. I am always looking to learn new technologies and grow as a developer. Sociable and dynamic. Self-motivated with a vision for new ideas and creativity. I enjoy researching and solving problems whether it’s in a team environment or working independently. I am always looking for ways to learn and improve on my current skills.
 ***
 
 ### <a name="skills">🤹 Skills</a>
