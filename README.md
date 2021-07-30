@@ -78,7 +78,7 @@ Fineart, Textiles, Graphic design, Product design and Interior design
 [1]: https://github.com/stumcardle
 [2]: https://github.com/Dev-ops-true/betwixt
 [3]: https://github.com/StuMcardle/acebook-runtime-terrors
-[4]: https://github.com/https://github.com/rdupplaw/makersbnb
+[4]: https://github.com/rdupplaw/makersbnb
 [5]: https://github.com/stumcardle
 [6]: https://www.youtube.com/watch?v=ZddhZCFhr7I
 [7]: https://github.com/rdupplaw/makersbnb
